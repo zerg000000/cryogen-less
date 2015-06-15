@@ -1,0 +1,2 @@
+{:description "LESS CSS compiler"
+ :init cryogen-less.core/init}
